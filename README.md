@@ -1,2 +1,2 @@
 # lua-waf
-lua waf
+lua waf is adapted to nginx
